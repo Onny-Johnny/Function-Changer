@@ -1,0 +1,6 @@
+Move to the folder "src" all functions that you want to change
+Then write this instruction in command line
+
+clang function_changer.c
+
+./a.out src/*.c
